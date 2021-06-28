@@ -24,9 +24,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 
 anyone with zero experience on programming can learn.
 
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
-
-<a href="https://www.shapeai.tech"> ShapeAi</a>
+I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit: <a href="https://www.shapeai.tech"> ShapeAi</a>
 
 or follow SHAPEAI on:
 

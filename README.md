@@ -1,6 +1,6 @@
 # SHAPEAI Javascript and Reactjs BOOTCAMP
 
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> <a href="https://www.shapeai.tech"> ShapeAi</a>
 
 </b>
 
